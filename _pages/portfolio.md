@@ -5,7 +5,25 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-A selection of personal projects from GitHub. Full list at [github.com/jackjmwelter22](https://github.com/jackjmwelter22).
+A mix of software projects, hardware builds, and tinkering. Full GitHub at [github.com/jackjmwelter22](https://github.com/jackjmwelter22).
+
+## Hardware & Home Lab
+
+### Home Network Stack
+**Raspberry Pi Zero 2 · PiHole · Unbound · WireGuard (PiVPN)**
+
+Built a self-hosted home network setup on a Raspberry Pi Zero 2. PiHole handles network-wide ad and tracker blocking, Unbound acts as a local recursive DNS resolver so DNS queries never leave the network, and WireGuard via PiVPN provides a lightweight VPN for secure remote access from anywhere.
+
+---
+
+### ADS-B Flight Tracking
+**Raspberry Pi Zero 2 · PiAware · ADS-B Receiver**
+
+Two separate builds for tracking aircraft via ADS-B signals. One runs PiAware to feed live flight data to FlightAware, giving real-time coverage of local airspace. The other is a purpose-built ADS-B receiver used for situational awareness while flying — a practical tool that also doubles as a fun hardware project.
+
+---
+
+## Software
 
 ---
 
