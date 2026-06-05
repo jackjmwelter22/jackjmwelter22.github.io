@@ -1,0 +1,60 @@
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+
+# Site settings
+title: "Jack Welter"
+name: "Jack Welter"
+description: "Travel, adventures, and everything in between."
+url: "https://jackjmwelter22.github.io"
+baseurl: ""
+
+# Author info (shows in sidebar/bio)
+author:
+  name: "Jack Welter"
+  avatar: "/assets/images/bio-photo.jpg"  # add your photo here later
+  bio: "Explorer. Writer. Always planning the next trip."
+  location: "USA"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jackjmwelter22"
+
+# Navigation
+navigation:
+  - title: "About"
+    url: /about/
+  - title: "Blog"
+    url: /blog/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Resume"
+    url: /resume/
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+paginate: 5
+paginate_path: /blog/page:num/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
