@@ -37,6 +37,10 @@ navigation:
   - title: "Resume"
     url: /resume/
 
+# Include _pages directory
+include:
+  - _pages
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
