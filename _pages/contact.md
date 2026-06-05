@@ -7,7 +7,7 @@ author_profile: true
 
 Have a question, want to collaborate, or just want to say hi? Fill out the form below.
 
-<form action="FORMSPREE_ENDPOINT_HERE" method="POST">
+<form action="https://formspree.io/f/mojzvgqo" method="POST">
   <div style="margin-bottom: 1em;">
     <label for="name" style="display:block; margin-bottom:.25em; font-weight:bold;">Name</label>
     <input type="text" id="name" name="name" required

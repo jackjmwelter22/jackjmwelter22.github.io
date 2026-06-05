@@ -3,9 +3,9 @@ layout: single
 title: "Resume"
 permalink: /resume/
 author_profile: true
-toc: true
-toc_label: "On this page"
 ---
+
+<a href="/assets/jack-welter-resume.pdf" class="btn btn--primary" download>Download Resume (PDF)</a>
 
 ## Experience
 
