@@ -6,17 +6,17 @@ plugins:
   - jekyll-paginate
 
 # Site settings
-title: "Jack Welter"
+title: "Where in the World is Welter?"
 name: "Jack Welter"
-description: "Travel, adventures, and everything in between."
+description: "Travel stories and adventures from around the world."
 url: "https://jackjmwelter22.github.io"
 baseurl: ""
 
 # Author info (shows in sidebar/bio)
 author:
   name: "Jack Welter"
-  avatar: "/assets/images/bio-photo.jpg"  # add your photo here later
-  bio: "Explorer. Writer. Always planning the next trip."
+  avatar: "/assets/images/bio-photo.jpg"  # drop a photo here named bio-photo.jpg
+  bio: "Traveler. Writer. Always somewhere new."
   location: "USA"
   links:
     - label: "GitHub"
