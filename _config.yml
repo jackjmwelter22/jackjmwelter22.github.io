@@ -15,7 +15,7 @@ baseurl: ""
 # Author info (shows in sidebar/bio)
 author:
   name: "Jack Welter"
-  avatar: "/assets/images/bio-photo.jpg"  # drop a photo here named bio-photo.jpg
+  avatar: "/assets/images/bio-photo.jpeg"
   bio: "Traveler. Writer. Always somewhere new."
   location: "USA"
   links:
