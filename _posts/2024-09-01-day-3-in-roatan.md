@@ -15,7 +15,7 @@ categories:
 
 <!-- wp:embed {"url":"https://i.imgur.com/QYkcIs8.jpeg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/QYkcIs8.jpeg
+<img src="https://i.imgur.com/QYkcIs8.jpeg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 
@@ -25,13 +25,13 @@ https://i.imgur.com/QYkcIs8.jpeg
 
 <!-- wp:embed {"url":"https://i.imgur.com/xzSRTew.jpeg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/xzSRTew.jpeg
+<img src="https://i.imgur.com/xzSRTew.jpeg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 
 <!-- wp:embed {"url":"https://i.imgur.com/nR1eIie.jpeg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/nR1eIie.jpeg
+<img src="https://i.imgur.com/nR1eIie.jpeg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 
@@ -41,7 +41,7 @@ https://i.imgur.com/nR1eIie.jpeg
 
 <!-- wp:embed {"url":"https://i.imgur.com/WiMUh5t.jpeg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/WiMUh5t.jpeg
+<img src="https://i.imgur.com/WiMUh5t.jpeg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 
@@ -51,7 +51,7 @@ https://i.imgur.com/WiMUh5t.jpeg
 
 <!-- wp:embed {"url":"https://i.imgur.com/TAksAhj.jpeg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/TAksAhj.jpeg
+<img src="https://i.imgur.com/TAksAhj.jpeg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 
@@ -61,7 +61,7 @@ https://i.imgur.com/TAksAhj.jpeg
 
 <!-- wp:embed {"url":"https://i.imgur.com/Fp5u4d5.jpeg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/Fp5u4d5.jpeg
+<img src="https://i.imgur.com/Fp5u4d5.jpeg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 
@@ -71,7 +71,7 @@ https://i.imgur.com/Fp5u4d5.jpeg
 
 <!-- wp:embed {"url":"https://i.imgur.com/fpKOaBT.jpeg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/fpKOaBT.jpeg
+<img src="https://i.imgur.com/fpKOaBT.jpeg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 
@@ -81,7 +81,7 @@ https://i.imgur.com/fpKOaBT.jpeg
 
 <!-- wp:embed {"url":"https://i.imgur.com/1AsfBfX.jpeg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/1AsfBfX.jpeg
+<img src="https://i.imgur.com/1AsfBfX.jpeg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 
@@ -91,19 +91,19 @@ https://i.imgur.com/1AsfBfX.jpeg
 
 <!-- wp:embed {"url":"https://i.imgur.com/BTlKGZP.jpeg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/BTlKGZP.jpeg
+<img src="https://i.imgur.com/BTlKGZP.jpeg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 
 <!-- wp:embed {"url":"https://i.imgur.com/1AlGaEO.jpeg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/1AlGaEO.jpeg
+<img src="https://i.imgur.com/1AlGaEO.jpeg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 
 <!-- wp:embed {"url":"https://i.imgur.com/WvVMgG1.jpeg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/WvVMgG1.jpeg
+<img src="https://i.imgur.com/WvVMgG1.jpeg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 
@@ -113,7 +113,7 @@ https://i.imgur.com/WvVMgG1.jpeg
 
 <!-- wp:embed {"url":"https://i.imgur.com/pexwVcJ.jpeg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/pexwVcJ.jpeg
+<img src="https://i.imgur.com/pexwVcJ.jpeg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 
@@ -123,7 +123,7 @@ https://i.imgur.com/pexwVcJ.jpeg
 
 <!-- wp:embed {"url":"https://i.imgur.com/rmbjjXt.jpeg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/rmbjjXt.jpeg
+<img src="https://i.imgur.com/rmbjjXt.jpeg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 
@@ -133,7 +133,7 @@ https://i.imgur.com/rmbjjXt.jpeg
 
 <!-- wp:embed {"url":"https://i.imgur.com/XMe8iOz.jpeg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/XMe8iOz.jpeg
+<img src="https://i.imgur.com/XMe8iOz.jpeg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 

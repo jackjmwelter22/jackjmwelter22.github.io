@@ -23,7 +23,7 @@ tags:
 
 <!-- wp:embed {"url":"https://i.imgur.com/zPBKHoa.jpg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/zPBKHoa.jpg
+<img src="https://i.imgur.com/zPBKHoa.jpg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 
@@ -33,7 +33,7 @@ https://i.imgur.com/zPBKHoa.jpg
 
 <!-- wp:embed {"url":"https://i.imgur.com/9L0YXqz.jpg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/9L0YXqz.jpg
+<img src="https://i.imgur.com/9L0YXqz.jpg" style="max-width:100%;height:auto;">
 </div><figcaption class="wp-element-caption">Hiking by the buritaca river</figcaption></figure>
 <!-- /wp:embed -->
 
@@ -43,7 +43,7 @@ https://i.imgur.com/9L0YXqz.jpg
 
 <!-- wp:embed {"url":"https://i.imgur.com/7xY6HFH.jpg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/7xY6HFH.jpg
+<img src="https://i.imgur.com/7xY6HFH.jpg" style="max-width:100%;height:auto;">
 </div><figcaption class="wp-element-caption">fording the river (bridge behind us is still being built)</figcaption></figure>
 <!-- /wp:embed -->
 
@@ -53,19 +53,19 @@ https://i.imgur.com/7xY6HFH.jpg
 
 <!-- wp:embed {"url":"https://i.imgur.com/BZIGPpi.jpg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/BZIGPpi.jpg
+<img src="https://i.imgur.com/BZIGPpi.jpg" style="max-width:100%;height:auto;">
 </div><figcaption class="wp-element-caption">Climbing the stairs</figcaption></figure>
 <!-- /wp:embed -->
 
 <!-- wp:embed {"url":"https://i.imgur.com/biMLHmF.jpg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/biMLHmF.jpg
+<img src="https://i.imgur.com/biMLHmF.jpg" style="max-width:100%;height:auto;">
 </div><figcaption class="wp-element-caption">First part of the lost city</figcaption></figure>
 <!-- /wp:embed -->
 
 <!-- wp:embed {"url":"https://i.imgur.com/IMgPm2G.jpg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/IMgPm2G.jpg
+<img src="https://i.imgur.com/IMgPm2G.jpg" style="max-width:100%;height:auto;">
 </div><figcaption class="wp-element-caption">Aerial shot</figcaption></figure>
 <!-- /wp:embed -->
 
@@ -75,19 +75,19 @@ https://i.imgur.com/IMgPm2G.jpg
 
 <!-- wp:embed {"url":"https://i.imgur.com/fHcPhJH.jpg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/fHcPhJH.jpg
+<img src="https://i.imgur.com/fHcPhJH.jpg" style="max-width:100%;height:auto;">
 </div><figcaption class="wp-element-caption">Telling us about the city</figcaption></figure>
 <!-- /wp:embed -->
 
 <!-- wp:embed {"url":"https://i.imgur.com/MZajYr4.jpg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/MZajYr4.jpg
+<img src="https://i.imgur.com/MZajYr4.jpg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 
 <!-- wp:embed {"url":"https://i.imgur.com/K0TM4sW.jpg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/K0TM4sW.jpg
+<img src="https://i.imgur.com/K0TM4sW.jpg" style="max-width:100%;height:auto;">
 </div><figcaption class="wp-element-caption">Group drone shot at the first part of the city</figcaption></figure>
 <!-- /wp:embed -->
 
@@ -97,7 +97,7 @@ https://i.imgur.com/K0TM4sW.jpg
 
 <!-- wp:embed {"url":"https://i.imgur.com/N8caoo8.jpg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/N8caoo8.jpg
+<img src="https://i.imgur.com/N8caoo8.jpg" style="max-width:100%;height:auto;">
 </div><figcaption class="wp-element-caption">A "map" of the mountains and the lost city</figcaption></figure>
 <!-- /wp:embed -->
 
@@ -107,13 +107,13 @@ https://i.imgur.com/N8caoo8.jpg
 
 <!-- wp:embed {"url":"https://i.imgur.com/gnTk6mS.jpg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/gnTk6mS.jpg
+<img src="https://i.imgur.com/gnTk6mS.jpg" style="max-width:100%;height:auto;">
 </div><figcaption class="wp-element-caption">The start of the main area of the city</figcaption></figure>
 <!-- /wp:embed -->
 
 <!-- wp:embed {"url":"https://i.imgur.com/DDMTWJs.jpg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/DDMTWJs.jpg
+<img src="https://i.imgur.com/DDMTWJs.jpg" style="max-width:100%;height:auto;">
 </div><figcaption class="wp-element-caption">Drone shot of me on the lost city - Not a soul in sight!</figcaption></figure>
 <!-- /wp:embed -->
 
@@ -123,19 +123,19 @@ https://i.imgur.com/DDMTWJs.jpg
 
 <!-- wp:embed {"url":"https://i.imgur.com/2O6doZA.jpg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/2O6doZA.jpg
+<img src="https://i.imgur.com/2O6doZA.jpg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 
 <!-- wp:embed {"url":"https://i.imgur.com/Cs1mYdv.jpg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/Cs1mYdv.jpg
+<img src="https://i.imgur.com/Cs1mYdv.jpg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 
 <!-- wp:embed {"url":"https://i.imgur.com/rWSUhbO.jpg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/rWSUhbO.jpg
+<img src="https://i.imgur.com/rWSUhbO.jpg" style="max-width:100%;height:auto;">
 </div><figcaption class="wp-element-caption">The vista spot is on the left (you can just barely see our group)</figcaption></figure>
 <!-- /wp:embed -->
 
@@ -145,7 +145,7 @@ https://i.imgur.com/rWSUhbO.jpg
 
 <!-- wp:embed {"url":"https://i.imgur.com/7kPlejT.jpg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/7kPlejT.jpg
+<img src="https://i.imgur.com/7kPlejT.jpg" style="max-width:100%;height:auto;">
 </div><figcaption class="wp-element-caption">Snack plate!</figcaption></figure>
 <!-- /wp:embed -->
 
@@ -159,7 +159,7 @@ https://i.imgur.com/7kPlejT.jpg
 
 <!-- wp:embed {"url":"https://i.imgur.com/GOhpbvr.jpg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/GOhpbvr.jpg
+<img src="https://i.imgur.com/GOhpbvr.jpg" style="max-width:100%;height:auto;">
 </div><figcaption class="wp-element-caption">Mamo signing some agreement</figcaption></figure>
 <!-- /wp:embed -->
 
@@ -169,7 +169,7 @@ https://i.imgur.com/GOhpbvr.jpg
 
 <!-- wp:embed {"url":"https://i.imgur.com/zGgjAen.jpg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/zGgjAen.jpg
+<img src="https://i.imgur.com/zGgjAen.jpg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 
@@ -179,7 +179,7 @@ https://i.imgur.com/zGgjAen.jpg
 
 <!-- wp:embed {"url":"https://i.imgur.com/a8uf133.jpg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/a8uf133.jpg
+<img src="https://i.imgur.com/a8uf133.jpg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 
@@ -189,7 +189,7 @@ https://i.imgur.com/a8uf133.jpg
 
 <!-- wp:embed {"url":"https://i.imgur.com/LAwkm68.jpg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/LAwkm68.jpg
+<img src="https://i.imgur.com/LAwkm68.jpg" style="max-width:100%;height:auto;">
 </div><figcaption class="wp-element-caption">Lunch. I forgot to take a picture until I ate most of the chicken :)</figcaption></figure>
 <!-- /wp:embed -->
 
@@ -199,7 +199,7 @@ https://i.imgur.com/LAwkm68.jpg
 
 <!-- wp:embed {"url":"https://i.imgur.com/ABql6b0.jpg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/ABql6b0.jpg
+<img src="https://i.imgur.com/ABql6b0.jpg" style="max-width:100%;height:auto;">
 </div><figcaption class="wp-element-caption">Fruit stop</figcaption></figure>
 <!-- /wp:embed -->
 
@@ -209,7 +209,7 @@ https://i.imgur.com/ABql6b0.jpg
 
 <!-- wp:embed {"url":"https://i.imgur.com/bnN56OJ.jpg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/bnN56OJ.jpg
+<img src="https://i.imgur.com/bnN56OJ.jpg" style="max-width:100%;height:auto;">
 </div><figcaption class="wp-element-caption">Picture of the camp</figcaption></figure>
 <!-- /wp:embed -->
 

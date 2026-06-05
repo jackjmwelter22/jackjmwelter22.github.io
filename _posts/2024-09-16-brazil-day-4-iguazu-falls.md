@@ -20,13 +20,13 @@ tags:
 
 <!-- wp:embed {"url":"https://i.imgur.com/RCc2zic.jpeg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/RCc2zic.jpeg
+<img src="https://i.imgur.com/RCc2zic.jpeg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 
 <!-- wp:embed {"url":"https://i.imgur.com/IIu5NS5.jpeg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/IIu5NS5.jpeg
+<img src="https://i.imgur.com/IIu5NS5.jpeg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 
@@ -48,7 +48,7 @@ https://i.imgur.com/IIu5NS5.jpeg
 
 <!-- wp:embed {"url":"https://i.imgur.com/eoAdaGq.jpeg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/eoAdaGq.jpeg
+<img src="https://i.imgur.com/eoAdaGq.jpeg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 
@@ -66,7 +66,7 @@ https://i.imgur.com/eoAdaGq.jpeg
 
 <!-- wp:embed {"url":"https://i.imgur.com/9EgqaMF.jpeg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/9EgqaMF.jpeg
+<img src="https://i.imgur.com/9EgqaMF.jpeg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 
@@ -76,7 +76,7 @@ https://i.imgur.com/9EgqaMF.jpeg
 
 <!-- wp:embed {"url":"https://i.imgur.com/u3af86l.jpeg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/u3af86l.jpeg
+<img src="https://i.imgur.com/u3af86l.jpeg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 
@@ -90,13 +90,13 @@ https://i.imgur.com/u3af86l.jpeg
 
 <!-- wp:embed {"url":"https://i.imgur.com/NLbEJUa.jpeg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/NLbEJUa.jpeg
+<img src="https://i.imgur.com/NLbEJUa.jpeg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 
 <!-- wp:embed {"url":"https://i.imgur.com/sd1P8jo.jpeg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/sd1P8jo.jpeg
+<img src="https://i.imgur.com/sd1P8jo.jpeg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 
@@ -106,13 +106,13 @@ https://i.imgur.com/sd1P8jo.jpeg
 
 <!-- wp:embed {"url":"https://i.imgur.com/YFQLwIh.jpeg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/YFQLwIh.jpeg
+<img src="https://i.imgur.com/YFQLwIh.jpeg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 
 <!-- wp:embed {"url":"https://i.imgur.com/JenPYXf.jpeg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/JenPYXf.jpeg
+<img src="https://i.imgur.com/JenPYXf.jpeg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 
@@ -126,13 +126,13 @@ https://i.imgur.com/JenPYXf.jpeg
 
 <!-- wp:embed {"url":"https://i.imgur.com/Hsc6BYS.jpeg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/Hsc6BYS.jpeg
+<img src="https://i.imgur.com/Hsc6BYS.jpeg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 
 <!-- wp:embed {"url":"https://i.imgur.com/kS9EXF9.jpeg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/kS9EXF9.jpeg
+<img src="https://i.imgur.com/kS9EXF9.jpeg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 
@@ -142,7 +142,7 @@ https://i.imgur.com/kS9EXF9.jpeg
 
 <!-- wp:embed {"url":"https://i.imgur.com/1vHQt7B.jpeg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/1vHQt7B.jpeg
+<img src="https://i.imgur.com/1vHQt7B.jpeg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 

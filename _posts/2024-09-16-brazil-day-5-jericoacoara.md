@@ -25,7 +25,7 @@ tags:
 
 <!-- wp:embed {"url":"https://i.imgur.com/aJYlXkn.jpeg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/aJYlXkn.jpeg
+<img src="https://i.imgur.com/aJYlXkn.jpeg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 
@@ -35,7 +35,7 @@ https://i.imgur.com/aJYlXkn.jpeg
 
 <!-- wp:embed {"url":"https://i.imgur.com/VOx7nrb.jpeg","type":"rich","providerNameSlug":"embed-handler","responsive":true} -->
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
-https://i.imgur.com/VOx7nrb.jpeg
+<img src="https://i.imgur.com/VOx7nrb.jpeg" style="max-width:100%;height:auto;">
 </div></figure>
 <!-- /wp:embed -->
 
